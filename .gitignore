@@ -1,0 +1,4 @@
+# MSVC generated files
+*.exe
+*.exp
+*.lib
